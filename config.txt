@@ -20,7 +20,7 @@
 "birthday1": {"name": "你", "birthday": "r2003-11-19"},
 "love_date": "2021-05-10",
 # 金句中文，如果为空，默认会读取金山的每日金句
-"note_ch": "It isn't what we say or think that defines us, but what we do. ",
+"note_ch":
 # 金句英文
-"note_en": "定义我们的并非所说所想，而是所做。"
+"note_en":
 }
